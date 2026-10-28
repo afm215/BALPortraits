@@ -1,0 +1,32 @@
+You are evaluating one actor photo for activity advertising campaign casting fit across multiple activities.
+
+Task:
+For EACH activity independently, assign a fitness score from 1 to 10,
+where:
+1 = very low fit
+10 = very high fit
+
+Important evaluation rules:
+- Judge only visual casting fit for a fictional advertising, promotional, public-service, or membership campaign image.
+- Consider apparent suitability for a typical campaign for the given activity category and activity:
+  face presentation, expression, grooming, perceived professionalism, warmth,
+  authority, approachability, confidence, composure, trustworthiness, maturity,
+  polish, lifestyle impression, and overall plausibility for the activity's campaign universe.
+- Do not infer the person's actual income, wealth, education, occupation, social class, hobbies, values, health, or lifestyle.
+- The activity category is provided to avoid ambiguity in activity names.
+- Evaluate each activity independently.
+- Do not compare activities against each other.
+- Do not explain your reasoning.
+- Do not output words, labels, bullets, JSON, or extra punctuation.
+- For every activity, output exactly one line in this exact format:
+  ACTIVITY_ID:FITNESS_SCORE
+- ACTIVITY_ID must exactly match one of the numeric activity IDs below.
+- FITNESS_SCORE must be a single integer from 1 to 10.
+- Output the lines in the same order as the activities below.
+- Output nothing except the required lines.
+
+The activities to score for this image are provided below in this format:
+ACTIVITY_ID|ACTIVITY_CATEGORY|ACTIVITY_NAME
+
+Activities to score for this image:
+{items}

@@ -1,0 +1,51 @@
+item_id	item_name	item_category	prestige
+1	blood donation campaign	civic and social impact	3
+2	community clean-up	civic and social impact	3
+3	charity fun run	civic and social impact	5
+4	volunteer recruitment campaign	civic and social impact	6
+5	environmental awareness campaign	civic and social impact	7
+6	heritage preservation campaign	civic and social impact	8
+7	social entrepreneurship program	civic and social impact	11
+8	foundation gala	civic and social impact	15
+9	philanthropy circle	civic and social impact	18
+10	impact investor forum	civic and social impact	19
+11	public gym membership	sport and fitness	4
+12	community running event	sport and fitness	5
+13	recreational football club	sport and fitness	6
+14	fitness class	sport and fitness	6
+15	cycling club	sport and fitness	7
+16	martial arts class	sport and fitness	8
+17	yoga studio	sport and fitness	9
+18	tennis club	sport and fitness	13
+19	golf club	sport and fitness	16
+20	yacht club	sport and fitness	20
+21	barbershop grooming	wellness and personal care	4
+22	basic hair salon	wellness and personal care	5
+23	beauty salon	wellness and personal care	6
+24	skincare treatment	wellness and personal care	8
+25	personal training	wellness and personal care	10
+26	nutrition coaching	wellness and personal care	10
+27	premium fitness coaching	wellness and personal care	12
+28	medical spa treatment	wellness and personal care	14
+29	longevity clinic program	wellness and personal care	17
+30	private wellness club	wellness and personal care	18
+31	multiplex cinema	arts and culture	5
+32	book fair	arts and culture	6
+33	public museum visit	arts and culture	7
+34	music festival	arts and culture	8
+35	photography workshop	arts and culture	9
+36	theatre performance	arts and culture	11
+37	design fair	arts and culture	12
+38	classical concert	arts and culture	13
+39	opera performance	arts and culture	15
+40	contemporary art fair	arts and culture	16
+41	job fair	professional development	4
+42	vocational training workshop	professional development	5
+43	language course	professional development	7
+44	coding bootcamp	professional development	8
+45	certification course	professional development	9
+46	public speaking workshop	professional development	10
+47	professional networking event	professional development	11
+48	industry conference	professional development	13
+49	leadership forum	professional development	15
+50	executive masterclass	professional development	17

@@ -1,0 +1,32 @@
+You are evaluating one actor photo for financial-services and insurance advertising campaign casting fit across multiple products.
+
+Task:
+For EACH product independently, assign a fitness score from 1 to 10,
+where:
+1 = very low fit
+10 = very high fit
+
+Important evaluation rules:
+- Judge only visual casting fit for a fictional advertising image.
+- Consider apparent suitability for a typical advertising campaign for the given product category and product:
+  face presentation, expression, grooming, perceived professionalism, warmth,
+  authority, approachability, confidence, composure, trustworthiness, maturity,
+  polish, lifestyle impression, and overall plausibility for the product's campaign universe.
+- Do not infer the person's actual income, wealth, education, occupation, social class, or insurance needs.
+- The product category is provided to avoid ambiguity in product names.
+- Evaluate each product independently.
+- Do not compare products against each other.
+- Do not explain your reasoning.
+- Do not output words, labels, bullets, JSON, or extra punctuation.
+- For every product, output exactly one line in this exact format:
+  PRODUCT_ID:FITNESS_SCORE
+- PRODUCT_ID must exactly match one of the numeric product IDs below.
+- FITNESS_SCORE must be a single integer from 1 to 10.
+- Output the lines in the same order as the products below.
+- Output nothing except the required lines.
+
+The products to score for this image are provided below in this format:
+PRODUCT_ID|PRODUCT_CATEGORY|PRODUCT_NAME
+
+Products to score for this image:
+{items}

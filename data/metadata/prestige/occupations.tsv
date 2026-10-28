@@ -1,0 +1,101 @@
+item_id	item_name	item_category	prestige
+1	Photographer	ArtsDesignEntnSportsMedia	54.56
+2	Janitor	BldgGroundsCleaningMntnce	23.62
+3	Accountant	BusinFinanOperations	62.78
+4	Financial Analyst	BusinFinanOperations	67.31
+5	Social Worker	CommSocialSvcs	53.62
+6	Computer Programmer	ComputerMath	69.27
+7	Web Developer	ComputerMath	63.93
+8	Electrician	ConstructionExtraction	54.21
+9	Carpenter	ConstructionExtraction	45.14
+10	Plumber	ConstructionExtraction	40.92
+11	Roofer	ConstructionExtraction	33.86
+12	Librarian	EduTrainingLibrarySvcs	47.62
+13	Architect	EngineeringArchitecture	75.6
+14	Civil Engineer	EngineeringArchitecture	73.1
+15	Mechanical Engineer	EngineeringArchitecture	73.91
+16	Farmworker	FarmingFishingForestry	39.23
+17	Dishwasher	FoodPrepServing	14.5
+18	Restaurant Cook	FoodPrepServing	41.88
+19	Dentist	Healthcare	74.22
+20	Dietitian	Healthcare	58.74
+21	Pharmacist	Healthcare	69.71
+22	Registered Nurse	Healthcare	68.03
+23	Lawyer	LawLegalSvcs	72.94
+24	Financial Manager	Management	67.92
+25	Marketing Manager	Management	60.24
+26	Human Resource Manager	Management	54.12
+27	Butcher	MfgProduction	34.34
+28	Tailor	MfgProduction	45.15
+29	Welder	MfgProduction	42.29
+30	Human Resource Assistant	OfficeAdminSupport	47.04
+31	Secretary	OfficeAdminSupport	43.53
+32	Concierge	PersonalCareRelatedSvcs	41.65
+33	Hairdresser	PersonalCareRelatedSvcs	35.83
+34	Firefighter	ProtectiveSvcs	69.89
+35	Police Detective	ProtectiveSvcs	66.03
+36	Security Guard	ProtectiveSvcs	37.98
+37	Real Estate Broker	SalesRelatedSvcs	52.57
+38	Truck Driver	TransportationMaterialMoving	36.36
+39	Crane Operator	TransportationMaterialMoving	44.65
+40	Receptionist	OfficeAdminSupport	37.97
+41	Office clerk	OfficeAdminSupport	39.34
+42	Fitness trainer	PersonalCareRelatedSvcs	48.3
+43	Education administrator	Management	60.46
+44	Business Operation Specialist	BusinFinanOperations	57.48
+45	Biological Scientist	LifePhysicalSocialScience	75.79
+46	Educational Counselor	CommSocialSvcs	57.46
+47	Paralegal	LawLegalSvcs	57.49
+48	Elementary School Teacher	EduTrainingLibrarySvcs	57.35
+49	Personal Care Aide	PersonalCareRelatedSvcs	41.41
+50	Retail Salesperson	SalesRelatedSvcs	31.04
+51	Construction Laborer	ConstructionExtraction	37.53
+52	Chief Executive	Management	80.37
+53	Order Filler	OfficeAdminSupport	33.89
+54	Construction Manager	Management	56.99
+55	Landscaping Worker	BldgGroundsCleaningMntnce	29.55
+56	Food Service Manager	Management	40.02
+57	Manufacturing Sale Representative	SalesRelatedSvcs	44.16
+58	Management Analyst	BusinFinanOperations	62.37
+59	Postsecondary Teacher	EduTrainingLibrarySvcs	62.94
+60	Automotive Mechanic	InstallMntnceRepair	41.17
+61	Courier	OfficeAdminSupport	31.74
+62	Farmer	FarmingFishingForestry	47.04
+63	Property Manager	Management	54.07
+64	Shipping Clerk	OfficeAdminSupport	34.68
+65	Sale Manager	Management	47.87
+66	Painter and Paperhanger	ConstructionExtraction	26.96
+67	Taxi Driver	TransportationMaterialMoving	30.79
+68	Air Conditioning Installer	InstallMntnceRepair	41.99
+69	Industrial Engineer	EngineeringArchitecture	68.17
+70	Construction Equipment Operator	ConstructionExtraction	37.17
+71	Transportation Manager	Management	51.91
+72	Correctional Officer	ProtectiveSvcs	38.7
+73	Industrial Production Manager	Management	57.04
+74	Machinist	MfgProduction	47.51
+75	Cashier	SalesRelatedSvcs	25.77
+76	Waiter or Waitress	FoodPrepServing	26.99
+77	Teaching Assistant	EduTrainingLibrarySvcs	52.11
+78	Maid	BldgGroundsCleaningMntnce	22.66
+79	Nursing Assistant	Healthcare	50.18
+80	Food Preparation Worker	FoodPrepServing	26.9
+81	Secondary School Teacher	EduTrainingLibrarySvcs	57.51
+82	Medical and Health Service Manager	Management	63.43
+83	Packer and Packager	TransportationMaterialMoving	28.05
+84	Home Health Aide	Healthcare	45.0
+85	Market Research Analyst	LifePhysicalSocialScience	57.12
+86	Medical Assistant	Healthcare	55.25
+87	Preschool Teacher	EduTrainingLibrarySvcs	54.85
+88	Insurance Sale Agent	SalesRelatedSvcs	39.15
+89	Social and Community Service Manager	Management	54.5
+90	Bartender	FoodPrepServing	33.37
+91	Educational and Career Counselor	CommSocialSvcs	57.46
+92	Pharmacy Technician	Healthcare	56.07
+93	Clinical laboratory technologist	Healthcare	67.5
+94	Animal Caretaker	PersonalCareRelatedSvcs	42.1
+95	Physical Therapist	Healthcare	63.3
+96	Compliance Officer	BusinFinanOperations	55.76
+97	Manicurist	PersonalCareRelatedSvcs	28.56
+98	Graphic Designer	ArtsDesignEntnSportsMedia	62.36
+99	Dental Assistant	Healthcare	47.54
+100	Writer	ArtsDesignEntnSportsMedia	70.0

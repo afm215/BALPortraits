@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "balportrait"
+version = "1.0.0"
+description = "Analysis code of the BALPortrait face-auditing benchmark for vision-language models (WACV 2027)"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=1.23",
+    "pandas>=2.0",
+    "scipy>=1.10",
+    "statsmodels>=0.14",
+    "matplotlib>=3.7",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[tool.setuptools.packages.find]
+include = ["balportrait*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["slow: checks against the numbers of the paper (about 30 seconds)"]
+addopts = "-m 'not slow'"

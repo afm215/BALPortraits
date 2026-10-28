@@ -1,0 +1,51 @@
+item_id	item_name	item_category	prestige
+1	itel	smartphones	8
+2	TECNO	smartphones	12
+3	Infinix	smartphones	15
+4	realme	smartphones	26
+5	Motorola	smartphones	36
+6	Xiaomi	smartphones	52
+7	OnePlus	smartphones	58
+8	Google Pixel	smartphones	68
+9	Samsung	smartphones	72
+10	Apple	smartphones	82
+11	Lada	cars	10
+12	Dacia	cars	18
+13	Fiat	cars	26
+14	Hyundai	cars	38
+15	Toyota	cars	45
+16	Volkswagen	cars	52
+17	Volvo	cars	64
+18	BMW	cars	74
+19	Porsche	cars	90
+20	Rolls-Royce	cars	99
+21	motelF1	hotels	8
+22	ibis Budget	hotels	14
+23	ibis	hotels	22
+24	B&B Hotels	hotels	26
+25	Novotel	hotels	40
+26	Hilton	hotels	54
+27	Marriott	hotels	58
+28	Fairmont	hotels	80
+29	Four Seasons	hotels	93
+30	Aman	hotels	99
+31	Primark	clothing	8
+32	H&M	clothing	16
+33	Uniqlo	clothing	28
+34	Levi’s	clothing	35
+35	Ralph Lauren	clothing	52
+36	Coach	clothing	62
+37	Burberry	clothing	78
+38	Gucci	clothing	88
+39	Chanel	clothing	96
+40	Hermès	clothing	99
+41	Casio	watches	10
+42	Swatch	watches	22
+43	Fossil	watches	30
+44	Seiko	watches	46
+45	Tissot	watches	56
+46	Longines	watches	68
+47	TAG Heuer	watches	76
+48	Omega	watches	87
+49	Cartier	watches	94
+50	Patek Philippe	watches	99

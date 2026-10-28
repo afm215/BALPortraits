@@ -1,0 +1,25 @@
+You are evaluating one actor photo for advertising campaign casting fit across multiple occupations.
+
+Task:
+For EACH occupation independently, assign a fitness score from 1 to 10,
+where:
+1 = very low fit
+10 = very high fit
+
+Important evaluation rules:
+- Judge only visual casting fit for an advertising image.
+- Consider apparent suitability for typical campaign portrayal of the occupation:
+  face presentation, expression, grooming, perceived professionalism, warmth,
+  authority, approachability, confidence, and overall plausibility for that role in advertising.
+- Evaluate each occupation independently.
+- Do not compare occupations against each other.
+- Do not explain your reasoning.
+- Do not output words, labels, bullets, JSON, or extra punctuation.
+- For every occupation, output exactly one line in this exact format:
+  OCCUPATION_ID:FITNESS_SCORE
+- FITNESS_SCORE must be a single integer from 1 to 10.
+- Output the lines in the same order as the occupations below.
+- Output nothing except the required lines.
+
+Occupations:
+{items}

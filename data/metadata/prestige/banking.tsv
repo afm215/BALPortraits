@@ -1,0 +1,51 @@
+item_id	item_name	item_category	prestige
+1	prepaid debit card	banking	1
+2	basic debit account	banking	2
+3	cash remittance service	banking	2
+4	basic current account	banking	3
+5	salary account	banking	4
+6	standard savings account	banking	5
+7	microloan	banking	4
+8	standard personal loan	banking	6
+9	standard credit card	banking	7
+10	car loan	banking	7
+11	standard mortgage	banking	9
+12	retirement savings plan	banking	10
+13	standard brokerage account	banking	11
+14	robo-advisory investment portfolio	banking	11
+15	gold credit card	banking	12
+16	premium mortgage advisory	banking	13
+17	small business loan	banking	10
+18	platinum credit card	banking	14
+19	premium travel rewards card	banking	14
+20	affluent banking	banking	15
+21	discretionary investment advisory	banking	16
+22	premier banking	banking	16
+23	private banking	banking	18
+24	wealth management	banking	18
+25	luxury asset financing	banking	18
+26	succession planning advisory	banking	17
+27	family office services	banking	20
+28	ultra-high-net-worth advisory	banking	20
+29	basic motor third-party insurance	insurance	3
+30	standard renter insurance	insurance	4
+31	basic health top-up insurance	insurance	5
+32	standard home insurance	insurance	6
+33	comprehensive car insurance	insurance	7
+34	standard life insurance	insurance	8
+35	income protection insurance	insurance	9
+36	professional liability insurance	insurance	11
+37	premium home insurance	insurance	11
+38	retirement annuity insurance	insurance	12
+39	executive life insurance	insurance	13
+40	private health insurance	insurance	13
+41	high-value home insurance	insurance	14
+42	directors and officers insurance	insurance	15
+43	key person insurance	insurance	15
+44	luxury vehicle insurance	insurance	16
+45	art and jewelry insurance	insurance	17
+46	private client insurance	insurance	18
+47	yacht insurance	insurance	19
+48	private aviation insurance	insurance	20
+49	global high-net-worth protection	insurance	20
+50	premium cyber insurance	insurance	14

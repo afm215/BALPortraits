@@ -1,0 +1,97 @@
+You are evaluating one actor photo for advertising campaign casting fit across multiple brands.
+
+Task:
+For EACH brand independently, assign a fitness score from 1 to 10,
+where:
+1 = very low fit
+10 = very high fit
+
+Important evaluation rules:
+- Judge only visual casting fit for an advertising image.
+- Consider apparent suitability for a typical advertising campaign for the given product category and brand:
+  face presentation, expression, grooming, perceived professionalism, warmth,
+  authority, approachability, confidence, polish, lifestyle impression,
+  and overall plausibility for the brand's campaign universe.
+- The product category is provided to avoid ambiguity in brand names.
+- Evaluate each brand independently.
+- Do not compare brands against each other.
+- Do not explain your reasoning.
+- Do not output words, labels, bullets, JSON, or extra punctuation.
+- For every brand, output exactly one line in this exact format:
+  BRAND_NAME:FITNESS_SCORE
+- BRAND_NAME must exactly match one of the brand names below.
+- FITNESS_SCORE must be a single integer from 1 to 10.
+- Output the lines in the same order as the brands below.
+- Output nothing except the required lines.
+
+Product categories and candidate brands:
+
+Category: smartphones
+Brands:
+itel
+TECNO
+Infinix
+realme
+Motorola
+Xiaomi
+OnePlus
+Google Pixel
+Samsung
+Apple
+
+Category: cars
+Brands:
+Lada
+Dacia
+Fiat
+Hyundai
+Toyota
+Volkswagen
+Volvo
+BMW
+Porsche
+Rolls-Royce
+
+Category: hotels
+Brands:
+motelF1
+ibis Budget
+ibis
+B&B Hotels
+Novotel
+Hilton
+Marriott
+Fairmont
+Four Seasons
+Aman
+
+Category: clothing
+Brands:
+Primark
+H&M
+Uniqlo
+Levi’s
+Ralph Lauren
+Coach
+Burberry
+Gucci
+Chanel
+Hermès
+
+Category: watches
+Brands:
+Casio
+Swatch
+Fossil
+Seiko
+Tissot
+Longines
+TAG Heuer
+Omega
+Cartier
+Patek Philippe
+
+The actual scoring order for this image is provided below. Score only those lines, using the category to interpret the brand correctly.
+
+Brands to score for this image:
+{items}
