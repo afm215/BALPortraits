@@ -13,7 +13,7 @@ This repository contains:
 ## Installation
 
 ```bash
-git clone <repository-url> && cd BALPortrait
+git clone git@github.com:afm215/BALPortraits.git && cd BALPortrait
 pip install -e .            # or: pip install -r requirements.txt (exact versions used for the paper)
 ```
 
